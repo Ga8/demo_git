@@ -1,1 +1,2 @@
-j'écris en ligne d ecommande dans mon fichier
+j'écris en ligne de commande dans mon fichier.
+Je corrige sur github.
