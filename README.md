@@ -1,2 +1,3 @@
 # demo_git
-une demo de git modified
+Ce répertoire est un répertoire de test pour le cours de git gitHub.
+
